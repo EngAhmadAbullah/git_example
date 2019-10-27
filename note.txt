@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        
+    <title>About me</title>
+    </head>
+        
+    <body>
+            
+            Ahmed Abdullah
+            <p> My favorite foods :    </p>
+        <ul>
+            <li>Beef  <img src="01.jpg" alt="food">      </li>
+            <li>sushi      <img src="02.jpg" alt="food">  </li>
+            <li>Pasta         <img src="03.jpg" alt="food">   </li>
+        </ul>
+
+    </body>
+</html
